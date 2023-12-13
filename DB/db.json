@@ -1,0 +1,32 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Paco",
+      "surname": "Clavel",
+      "age": 22,
+      "score": 8.22
+    },
+    {
+      "id": 2,
+      "name": "Manolo",
+      "surname": "García",
+      "age": 89,
+      "score": 3.12
+    },
+    {
+      "id": 3,
+      "name": "Pepito",
+      "surname": "Grillo",
+      "age": 12,
+      "score": 9.76
+    },
+    {
+      "name": "Luis",
+      "surname": "Loles",
+      "age": "40",
+      "score": "5",
+      "id": 4
+    }
+  ]
+}
